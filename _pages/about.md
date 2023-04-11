@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
-
-Lorem ipsum.
+I am currently sutyding Computer Science and Math at Haverford College and pursuing a CIS graduate degree in University of Pennsylvania's School of Engineering and Applied Sciences.   
