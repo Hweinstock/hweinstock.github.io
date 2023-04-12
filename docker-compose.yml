@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  psite:
+    build: .
+    image: psite
+    environment:
+      - TERM=xterm-256color
+    volumes:
+      - .:/project/
